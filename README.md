@@ -5,9 +5,13 @@ Sidescroll shooter arcade game developed during a Multimedia course in the Integ
 
 It has only one hard level with a random AI boss, features a video on how to play and original artwork. There are some references to other games or random stuff, try to find them all!
 
-Play the game: <http://jcxavier.github.com/1337wing>.
+Development timeframe: 1 week.
+
+Play the game now @ <http://jcxavier.github.com/1337wing>!!1
+
 
 ![1337wing logo](https://raw.github.com/jcxavier/1337wing/master/artwork/cover.png)
+
 
 ## Authors
 
