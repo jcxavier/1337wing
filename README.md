@@ -9,13 +9,20 @@ Play the game: <http://jcxavier.github.com/1337wing>.
 
 ![1337wing logo](https://raw.github.com/jcxavier/1337wing/master/artwork/cover.png)
 
-### Authors
+## Authors
 
 João Xavier ([jcxavier](http://github.com/jcxavier) @ github) -- Architecture and game logic.
 
 João Ribeiro ([joaoprib](http://github.com/joaoprib) @ github) -- Artwork, assets and animation.
 
-### License
+## Credits
+
+* SnappleMan, Ashane, Norg - The Doomsday
+* Nobuo Uematsu - Final Fantasy VII OST - Fanfare ~ Victory Theme
+* SEGA - Sonic 3 And Knuckles OST - Game Over
+* Cartoon Golimar - http://www.flickr.com/photos/shavanna/2338859149/
+
+## License
 
 Copyright [2011] [João Ribeiro, João Xavier]
 
